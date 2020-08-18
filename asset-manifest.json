@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/putforshare/static/css/main.5f361e03.chunk.css",
+    "main.js": "/putforshare/static/js/main.8f228652.chunk.js",
+    "main.js.map": "/putforshare/static/js/main.8f228652.chunk.js.map",
+    "runtime-main.js": "/putforshare/static/js/runtime-main.564be7aa.js",
+    "runtime-main.js.map": "/putforshare/static/js/runtime-main.564be7aa.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/putforshare/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.e1ff9e00.chunk.js": "/putforshare/static/js/2.e1ff9e00.chunk.js",
+    "static/js/2.e1ff9e00.chunk.js.map": "/putforshare/static/js/2.e1ff9e00.chunk.js.map",
+    "index.html": "/putforshare/index.html",
+    "precache-manifest.a9eee84018ef2842fd3d06691d2d73c6.js": "/putforshare/precache-manifest.a9eee84018ef2842fd3d06691d2d73c6.js",
+    "service-worker.js": "/putforshare/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/putforshare/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/putforshare/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e1ff9e00.chunk.js.LICENSE.txt": "/putforshare/static/js/2.e1ff9e00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.564be7aa.js",
+    "static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.e1ff9e00.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8f228652.chunk.js"
+  ]
+}
