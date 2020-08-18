@@ -86,7 +86,5 @@ def addManyPerson():
         return response
 
 
-port = int(os.environ.get('PORT', 8080))
-
 if __name__ == '__main__':
-    application.run(threaded=True, port=port)
+    application.run(threaded=True)
