@@ -22,12 +22,7 @@ function Home(props) {
       redirectToLogin();
     })
   }
-  const addPerson = (e) => {
-    console.log(Auth.isAuthenticated());
-    e.preventDefault();
-    props.history.push('/home/hi');
 
-  }
   const getAllPersons = () => {
     axios.get("https://putforshare.herokuapp.com/getAllPerson/")
       .then(function (response) {
